@@ -6,9 +6,9 @@ I am an experienced educator starting a new career in the tech industry. With ov
 
 - 📚 I’m currently reading **The Product Book**
 
-- 🍲 I’m currently working on a social media app that simplifies the joy of sharing of cooking and eating with friends: [Foodies]([url](https://www.gofoodies.me/))
+- 🍲 I’m currently working on a social media app that simplifies the joy of sharing of cooking and eating with friends: [Foodies](https://foodies123-f84379a8dea2.herokuapp.com/)
 
-- 🔨 A project I created with my team is an Airbnb clone for renting tools: [Rent-a-Tool]([url](https://rent-a-tool-6caff73a62c4.herokuapp.com/))
+- 🔨 A project I created with my team is an Airbnb clone for renting tools [Rent-a-Tool](https://rent-a-tool-6caff73a62c4.herokuapp.com)
 
 - 📄 Know about my experiences: [Resume](https://app.enhancv.com/share/b502e952/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
