@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm Alicja Surzyn 💃 </h1>
-<h3 align="center">I'm a Product Manager, excited to learn new skills everyday.</h3>
+<h3 align="center">I'm a Product Manager, who loves to code. 
+  I'm passionate about learning new skills everyday.</h3>
 
 I am an experienced educator starting a new career in the tech industry. With over 10 years of diverse experience in education, and the successful completion of an intense web development boot camp, I bring a unique perspective to motivating and organizing teams. During LeWagon’s bootcamp I found my passion for product management when I naturally fell into the role of organizing our product: a social media app for restaurant and cooking experiences. I love creating opportunities for people to reach their potential while working in a team. 
 
 
 - 📚 I’m currently reading **The Product Book**
 
-- 🍲 I’m currently working on a social media app that simplifies the joy of sharing of cooking and eating with friends: [Foodies](https://foodies123-f84379a8dea2.herokuapp.com/)
+- 🍲 I’m working on a social media app that simplifies the joy of sharing of cooking and eating with friends: [Foodies](https://www.gofoodies.me/)
 
-- 🔨 A project I created with my team is an Airbnb clone for renting tools [Rent-a-Tool](https://rent-a-tool-6caff73a62c4.herokuapp.com)
+- 🔨 A project I created with my team is an Airbnb clone for renting tools [Rent-a-Tool](https://rent-a-tool-6caff73a62c4.herokuapp.com/)
 
-- 📄 Know about my experiences: [Resume](https://app.enhancv.com/share/b502e952/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-
-- 👨‍💻 All of my projects are available at: [https://alicja-surzyn.github.io/](https://alicja-surzyn.github.io/)
+- 📄 Know about my experiences: <a href="https://app.enhancv.com/share/b502e952/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank">Resume</a>
 
 - 📫 How to reach me: **alicja.surzyn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/alicja-surzyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alicja-surzyn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alicja-surzyn" target="_blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
