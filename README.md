@@ -11,7 +11,7 @@ I am an experienced educator starting a new career in the tech industry. With ov
 
 - 🔨 A project I created with my team is an Airbnb clone for renting tools [Rent-a-Tool](https://rent-a-tool-6caff73a62c4.herokuapp.com/)
 
-- 📄 Know about my experiences: <a href="https://app.enhancv.com/share/b502e952/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank">Resume</a>
+- 📄 Know about my experiences: <a href="https://app.enhancv.com/share/dfd25f1f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank">Resume</a>
 
 - 📫 How to reach me: **alicja.surzyn@gmail.com**
 
